@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/IntelliJ Projects DIO.iml" filepath="$PROJECT_DIR$/.idea/IntelliJ Projects DIO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/01/tiposBasicosJava.iml" filepath="$PROJECT_DIR$/01/tiposBasicosJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01/tiposVariaveis.iml" filepath="$PROJECT_DIR$/01/tiposVariaveis.iml" />
     </modules>
   </component>
 </project>
